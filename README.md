@@ -1,2 +1,1 @@
-# 
-class This is my training repository.
+# class This is my training repository.
